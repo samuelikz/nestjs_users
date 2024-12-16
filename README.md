@@ -125,7 +125,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-Samuel - [LinkedIn](https://www.linkedin.com/in/samuel-silva-dev)
+Samuel - [LinkedIn](https://www.linkedin.com/in/samuel-nunes-da-silva-057899133/)
 
 Link do Projeto: [https://github.com/samuelikz/nestjs_users](https://github.com/samuelikz/nestjs_users)
 
